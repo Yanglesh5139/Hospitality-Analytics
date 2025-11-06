@@ -84,9 +84,9 @@ The analysis is powered by **five structured datasets** forming a star schema:
 ---
 
 ## 🗂️ Attachments / Links
-> 🔗 [Power BI Dashboard (.pbit)](https://github.com/Yanglesh5139/hospitality_performance_dashboard/blob/main/dashboard/hospitality_dashboard.pbit)  
-> 🔗 [Dashboard PDF Report](https://github.com/Yanglesh5139/hospitality_performance_dashboard/blob/main/dashboard/hospitality_dashboard.pdf)  
-> 🖼️ [Dashboard Overview Preview](https://github.com/Yanglesh5139/hospitality_performance_dashboard/blob/main/assets/dashboard_preview.png)  
+> 🔗 [Power BI Dashboard (.pbit)](https://github.com/Yanglesh5139/Hospitality-Analytics/blob/main/hospitality_dashboard.pbit)  
+> 🔗 [Dashboard PDF Report](https://github.com/Yanglesh5139/Hospitality-Analytics/blob/main/hospitality_dashboard.pdf)  
+> 🖼️ [Dashboard Overview Preview](https://github.com/Yanglesh5139/Hospitality-Analytics/blob/main/Dashboard_pics/Hospitality_Homepage.png)  
 
 ---
 
